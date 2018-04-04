@@ -35,7 +35,7 @@ def welcome():
         f"/api/v1.0/precipitation<br/>"
         f"- List of prior year rain totals from all stations<br/>"
         f"<br/>"
-        f"/api/v1.0/stations<br/>"
+        f"/api/v1.0/stations<br/>" 
         f"- List of Station numbers and names<br/>"
         f"<br/>"
         f"/api/v1.0/tobs<br/>"
